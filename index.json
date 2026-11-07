@@ -1,0 +1,11 @@
+{
+  "org": "scrapinghub",
+  "repo": "andi",
+  "versions": [
+    {
+      "commit": "5b7f1094a5526a016477a3d1c3f7617909f3bbbf",
+      "tag": "",
+      "parsed_at": "2026-11-07T12:33:16.240753+00:00"
+    }
+  ]
+}
