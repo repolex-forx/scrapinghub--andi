@@ -1,0 +1,7 @@
+[2026-11-07T12:32:14Z] === AST ITERATION 1 START | repo=scrapinghub/andi sha=5b7f1094 ===
+[2026-11-07T12:32:14Z] [iter=1] PHASE START: ast repo=scrapinghub/andi sha=5b7f1094
+[2026-11-07T12:32:14Z] [iter=1] Building AST aggregate chunks
+[2026-11-07T12:32:22Z] [iter=1] AST chunks built count=1 triples=76475
+[2026-11-07T12:32:22Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/5b7f1094a5526a016477a3d1c3f7617909f3bbbf/.complete
+[2026-11-07T12:32:22Z] [iter=1] PHASE END: ast elapsed_s=8 elapsed_min=0.1
+[2026-11-07T12:32:22Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

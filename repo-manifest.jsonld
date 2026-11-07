@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scrapinghub/andi/commit/5b7f1094a5526a016477a3d1c3f7617909f3bbbf",
       "git:hexsha": "5b7f1094a5526a016477a3d1c3f7617909f3bbbf",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/scrapinghub/andi/commit/846c5af8479557d4b315fd3bfa0da887cfc918c0",
